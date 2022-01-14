@@ -1,6 +1,9 @@
 _repo: Historical-Record-of-the-Seventy-Third-Regiment-Containing-an-account-of-the-formation-of-the__67001
 _version: 0.1.0
 alternative_title: Historical record of the 73rd Foot
+covers:
+- cover_type: archival
+  image_path: 67001-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45414
     wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67001#Historical-Record-of-the-Seventy-Third-Regiment-Containing-an-account-of-the-formation-of-the_
 gutenberg_issued: '2021-12-23'
 identifiers:
   gutenberg: '67001'
